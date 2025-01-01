@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Shima Dehghani Najvani!
+Aspiring Software QA Engineer with a passion for ensuring high-quality software and user satisfaction. I specialize in testing web applications, APIs, and performance benchmarks.
 
-<!--
-**shimad70/shimad70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills
+- Automation Tools: Selenium, Playwright
+- Programming: Python, Java
+- API Testing: Postman, REST-assured
+- Performance Testing: JMeter
+- Version Control: Git/GitHub
 
-Here are some ideas to get you started:
+## 🌱 Current Focus
+Learning advanced QA techniques, automation frameworks, and testing strategies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- **Email**: [shimadehghaninajvani@gmail.com](mailto:shimadehghaninajvani@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/shima-dehghani/](#)
